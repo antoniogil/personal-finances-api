@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mSjo66Tbth8=",
+  "success": true,
+  "projectFilePath": "/home/antonio/Code/personal-finances-api/src/PersonalFinances.Api/PersonalFinances.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/antonio/.nuget/packages/microsoft.aspnetcore.openapi/10.0.4/microsoft.aspnetcore.openapi.10.0.4.nupkg.sha512",
+    "/home/antonio/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512",
+    "/home/antonio/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
